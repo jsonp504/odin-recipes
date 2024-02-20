@@ -31,3 +31,14 @@ body {
 .button.baconeggcheese {
     background-color: darkgreen;
 }
+
+/* #header = ID Selector
+   .button = Class Selector
+   body = Type Selector
+
+   IN ORDER OF SPECIFICITY */
+
+/* .button,
+   .red           GROUPING
+
+   .button.baconeggcheese       CHAINING  */
