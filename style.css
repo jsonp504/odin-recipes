@@ -19,11 +19,12 @@ body {
     font-weight: bold;
 }
 
-.button.red {
+.button,
+.red {
     background-color: rgb(255, 0, 0);
 }
 
-.button.strog {
+.strog {
     background-color: #ffff00;
 }
 
