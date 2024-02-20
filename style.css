@@ -1,0 +1,32 @@
+body {
+    font-family:'Tahoma', 'Courier New', Arial, sans-serif;
+}
+
+#header {
+    background-color: black;
+    color: white;
+    font-size: 72px;
+    text-align: center;
+}
+
+#description {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.button {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.button.red {
+    background-color: rgb(255, 0, 0);
+}
+
+.button.strog {
+    background-color: #ffff00;
+}
+
+.button.baconeggcheese {
+    background-color: darkgreen;
+}
